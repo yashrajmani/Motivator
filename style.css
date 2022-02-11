@@ -1,0 +1,19 @@
+body {
+  background-image: url("bg2.jpg");
+
+  width: 200px;
+  height: 200px;
+  background-color: yellowgreen;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  display: inner-flex;
+  margin: auto 10px;
+  font-size: 22px;
+  color: rgb(0, 0, 0);
+  border-radius: 8px;
+  border: 1px solid darkblue;
+  padding: 10px;
+}
